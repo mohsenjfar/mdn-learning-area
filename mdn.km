@@ -1,0 +1,399 @@
+{
+    "root": {
+        "data": {
+            "id": "cpx488ndda00",
+            "created": 1674227815859,
+            "text": "Front-end web developer"
+        },
+        "children": [
+            {
+                "data": {
+                    "id": "cpx49dk6pmw0",
+                    "created": 1674227904914,
+                    "text": "Getting started (1.5–2 hours)",
+                    "expandState": "collapse",
+                    "progress": 9,
+                    "priority": null
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cpx49lyos6g0",
+                            "created": 1674227923205,
+                            "text": "Installing basic software",
+                            "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Installing_basic_software",
+                            "hyperlinkTitle": ""
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cpx49x7ra2o0",
+                            "created": 1674227947698,
+                            "text": "Background on the web and web standards ",
+                            "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/The_web_and_web_standards",
+                            "hyperlinkTitle": ""
+                        },
+                        "children": []
+                    },
+                    {
+                        "data": {
+                            "id": "cpx4a70i7vs0",
+                            "created": 1674227969028,
+                            "text": "Learning and getting help",
+                            "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/Learning_and_getting_help",
+                            "hyperlinkTitle": ""
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cpx4b5idev40",
+                    "created": 1674228044119,
+                    "text": "Semantics and structure with HTML (35–50 hours)",
+                    "expandState": "expand"
+                },
+                "children": [
+                    {
+                        "data": {
+                            "id": "cpx4bjocgqg0",
+                            "created": 1674228074955,
+                            "text": "Introduction to HTML\n (15–20 hour read/exercises)",
+                            "progress": 9,
+                            "expandState": "collapse"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cpx4dix8lyg0",
+                                    "created": 1674228230044,
+                                    "text": "Introduction to HTML overview",
+                                    "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML",
+                                    "hyperlinkTitle": "",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cpx4doo4yds0",
+                                    "created": 1674228242554,
+                                    "text": "Getting started with HTML",
+                                    "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started",
+                                    "hyperlinkTitle": "",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cpx4e0vtv6o0",
+                                    "created": 1674228269141,
+                                    "text": "What's in the head? Metadata in HTML",
+                                    "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML",
+                                    "hyperlinkTitle": "",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cpx4e7fb1ag0",
+                                    "created": 1674228283379,
+                                    "text": "HTML text fundamentals",
+                                    "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals",
+                                    "hyperlinkTitle": "",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cpx4efy7xm80",
+                                    "created": 1674228301937,
+                                    "text": "Creating hyperlinks",
+                                    "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks",
+                                    "hyperlinkTitle": "",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cpx4elembjc0",
+                                    "created": 1674228313813,
+                                    "text": "Advanced text formatting",
+                                    "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting",
+                                    "hyperlinkTitle": "",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cpx4evs6rhk0",
+                                    "created": 1674228336401,
+                                    "text": "Document and website structure",
+                                    "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure",
+                                    "hyperlinkTitle": "",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cq0ibw2rj6o0",
+                                    "created": 1674572277357,
+                                    "text": "Debugging HTML",
+                                    "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML",
+                                    "hyperlinkTitle": "",
+                                    "progress": 9
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cq0ic46kivc0",
+                                    "created": 1674572295001,
+                                    "text": "Assessment: Marking up a letter",
+                                    "progress": 9,
+                                    "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter",
+                                    "hyperlinkTitle": "",
+                                    "note": "**Hello dear all,**  \nI would appreciate any feedback on my “Marking up a letter” assessment.  \nThank so much.\n- [code link](https://github.com/mohsenjfar/mdn-front-end-web-developer/blob/master/assessments/marking-up-a-letter/index.html) on github\n- [live server](http://185.216.26.133:8000/marking-up-a-letter/)"
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cq0icah3qew0",
+                                    "created": 1674572308699,
+                                    "text": "Assessment: Structuring a page of content",
+                                    "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content",
+                                    "hyperlinkTitle": "",
+                                    "progress": 9
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cpx4bo0iqmg0",
+                            "created": 1674228084398,
+                            "text": "Multimedia and embedding\n (15–20 hour read/exercises)",
+                            "progress": 8,
+                            "expandState": "expand"
+                        },
+                        "children": [
+                            {
+                                "data": {
+                                    "id": "cq0idmc86rk0",
+                                    "created": 1674572412889,
+                                    "text": "Multimedia and embedding overview",
+                                    "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding",
+                                    "hyperlinkTitle": "",
+                                    "expandState": "collapse",
+                                    "progress": 8
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cq0ie89g1ig0",
+                                            "created": 1674572460610,
+                                            "text": "Add a hitmap on top of an image",
+                                            "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Add_a_hit_map_on_top_of_an_image",
+                                            "hyperlinkTitle": ""
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cq0ieazxqls0",
+                                            "created": 1674572466566,
+                                            "text": "Web literacy basics II",
+                                            "hyperlink": "https://mozilla.github.io/curriculum-final/web-lit-basics-two/session01-why-do-we-use-the-web.html#overview",
+                                            "hyperlinkTitle": ""
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cq0ieskckoo0",
+                                    "created": 1674572504805,
+                                    "text": "Images in HTML",
+                                    "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML",
+                                    "hyperlinkTitle": "",
+                                    "priority": null,
+                                    "expandState": "collapse",
+                                    "progress": 9
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cq0il5j30fk0",
+                                            "created": 1674573003212,
+                                            "text": "How do we put an image on a webpage?",
+                                            "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML#how_do_we_put_an_image_on_a_webpage",
+                                            "hyperlinkTitle": "",
+                                            "progress": 9
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cq1a9vi4u0w0",
+                                            "created": 1674651110458,
+                                            "text": "Alternative text",
+                                            "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML#alternative_text",
+                                            "hyperlinkTitle": "",
+                                            "progress": 9
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cq1aa6x3v3s0",
+                                            "created": 1674651135308,
+                                            "text": "Width and height",
+                                            "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML#width_and_height",
+                                            "hyperlinkTitle": "",
+                                            "progress": 9
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cq1agroi5q80",
+                                            "created": 1674651650686,
+                                            "text": "Image titles",
+                                            "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML#image_titles",
+                                            "hyperlinkTitle": "",
+                                            "progress": 9
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cq1b2l56ycg0",
+                                            "created": 1674653360469,
+                                            "text": "Annotating images with figures and figure captions",
+                                            "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML#annotating_images_with_figures_and_figure_captions",
+                                            "hyperlinkTitle": "",
+                                            "progress": 9
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cq25ax1y60w0",
+                                            "created": 1674738646605,
+                                            "text": "CSS background images",
+                                            "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML#css_background_images",
+                                            "hyperlinkTitle": "",
+                                            "progress": 9
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cq0if1kb49c0",
+                                    "created": 1674572524394,
+                                    "text": "Video and audio content",
+                                    "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content",
+                                    "hyperlinkTitle": ""
+                                },
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cq26mdmmjg00",
+                                            "created": 1674742365799,
+                                            "text": "Video and audio on the web",
+                                            "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content#video_and_audio_on_the_web",
+                                            "hyperlinkTitle": ""
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cq28jgrvfnk0",
+                                            "created": 1674747779774,
+                                            "text": "Displaying video text tracks",
+                                            "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content#displaying_video_text_tracks",
+                                            "hyperlinkTitle": ""
+                                        },
+                                        "children": []
+                                    }
+                                ]
+                            },
+                            {
+                                "data": {
+                                    "id": "cq0ifdowep40",
+                                    "created": 1674572550793,
+                                    "text": "From object to iframe — other embedding technologies",
+                                    "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies",
+                                    "hyperlinkTitle": ""
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cq0ifs8u5jk0",
+                                    "created": 1674572582473,
+                                    "text": "Adding vector graphics to the web",
+                                    "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web",
+                                    "hyperlinkTitle": ""
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cq0ifzkmb1c0",
+                                    "created": 1674572598423,
+                                    "text": "Responsive images",
+                                    "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images",
+                                    "hyperlinkTitle": ""
+                                },
+                                "children": []
+                            },
+                            {
+                                "data": {
+                                    "id": "cq0ig7o99ds0",
+                                    "created": 1674572616058,
+                                    "text": "Assessment: Mozilla splash page",
+                                    "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page",
+                                    "hyperlinkTitle": ""
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "data": {
+                            "id": "cpx4brskwmw0",
+                            "created": 1674228092625,
+                            "text": "HTML tables\n (5–10 hour read/exercises)"
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "data": {
+                    "id": "cpx4chxuwwg0",
+                    "created": 1674228149541,
+                    "text": "Styling and layout with CSS (90–120 hours)"
+                },
+                "children": []
+            }
+        ]
+    },
+    "template": "default",
+    "theme": "fresh-blue",
+    "version": "1.4.43"
+}
