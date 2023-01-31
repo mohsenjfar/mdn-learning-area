@@ -306,7 +306,9 @@
                                     "created": 1674572524394,
                                     "text": "Video and audio content",
                                     "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content",
-                                    "hyperlinkTitle": ""
+                                    "hyperlinkTitle": "",
+                                    "progress": 9,
+                                    "expandState": "collapse"
                                 },
                                 "children": [
                                     {
@@ -315,7 +317,8 @@
                                             "created": 1674742365799,
                                             "text": "Video and audio on the web",
                                             "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content#video_and_audio_on_the_web",
-                                            "hyperlinkTitle": ""
+                                            "hyperlinkTitle": "",
+                                            "progress": 9
                                         },
                                         "children": []
                                     },
@@ -325,7 +328,8 @@
                                             "created": 1674747779774,
                                             "text": "Displaying video text tracks",
                                             "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content#displaying_video_text_tracks",
-                                            "hyperlinkTitle": ""
+                                            "hyperlinkTitle": "",
+                                            "progress": 9
                                         },
                                         "children": []
                                     }
@@ -337,9 +341,67 @@
                                     "created": 1674572550793,
                                     "text": "From object to iframe — other embedding technologies",
                                     "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies",
-                                    "hyperlinkTitle": ""
+                                    "hyperlinkTitle": "",
+                                    "progress": 9,
+                                    "expandState": "collapse"
                                 },
-                                "children": []
+                                "children": [
+                                    {
+                                        "data": {
+                                            "id": "cq6evpty8a80",
+                                            "created": 1675171906347,
+                                            "text": "A short history of embedding",
+                                            "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies#a_short_history_of_embedding",
+                                            "hyperlinkTitle": "",
+                                            "progress": 9
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cq6fjelecxc0",
+                                            "created": 1675173762625,
+                                            "text": "Active learning: classic embedding uses",
+                                            "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies#active_learning_classic_embedding_uses",
+                                            "hyperlinkTitle": "",
+                                            "progress": 9
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cq6fjqe2q680",
+                                            "created": 1675173788304,
+                                            "text": "iframes in detail",
+                                            "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies#iframes_in_detail",
+                                            "hyperlinkTitle": "",
+                                            "progress": 9
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cq6gwo8qt6w0",
+                                            "created": 1675177623472,
+                                            "text": "Security concerns",
+                                            "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies#security_concerns",
+                                            "hyperlinkTitle": "",
+                                            "progress": 9
+                                        },
+                                        "children": []
+                                    },
+                                    {
+                                        "data": {
+                                            "id": "cq6h6jf078o0",
+                                            "created": 1675178396608,
+                                            "text": "The <embed> and <object> elements",
+                                            "hyperlink": "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies#the_embed_and_object_elements",
+                                            "hyperlinkTitle": "",
+                                            "progress": 9
+                                        },
+                                        "children": []
+                                    }
+                                ]
                             },
                             {
                                 "data": {
